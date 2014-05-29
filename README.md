@@ -6,11 +6,11 @@ A simple news reader prototype built with Xcode.
 ***
 
 #### Description
-The goal for me was to build a working app with a few features:
+The goal was to build a working app with a few features:
 
-1. let's user scroll through list and articles  
+1. scrollable list / articles  
 2. simple page transitions  
-3. let's users touch articles  
+3.  articles with text and images
 
 #### Sources
 The news articles are from `www.theverge.com`  
