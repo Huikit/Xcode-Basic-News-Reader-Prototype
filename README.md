@@ -1,3 +1,5 @@
+![title](http://f.cl.ly/items/2g3K22381P0s2p2n0Q3L/basic_news_app_launch.png)
+
 ### Xcode-Basic-News-Reader-Prototype
 A simple news reader prototype built with Xcode.
 
